@@ -1,0 +1,105 @@
+/* CSS Document */
+
+*{
+	margin: 0;
+}
+
+img{
+    max-width: 100%;
+	display: block;
+    border: 0;
+}
+
+#base{
+	padding: 10px;
+	margin: auto;
+	width: 1000px;
+}
+
+#base #rltTotal{
+}
+
+#base #rltTotal a{
+	font: bold 15px Verdana, Geneva, sans-serif;
+	text-decoration: none;
+	text-align: center;
+	border: 2px solid #C30;
+	padding: 5px 0;
+	background:#F00;
+	display: block;
+	color: #fff;
+}
+
+#base #rltTotal a:hover{
+	border: 2px solid #C30;
+	background: #C30;
+}
+
+#base #registros{
+	margin: 10px 0 0 0;
+	height: 300px;
+}
+
+
+#base #registros #cabecario{
+	font: bold 17px Verdana, Geneva, sans-serif;
+	text-align: center;
+	height: 21px;
+	padding: 3px;
+	margin: 0 0 5px 0;
+}
+
+#base #registros #cabecario #tituNome{
+	float: left;
+	width: 120px;
+}
+
+#base #registros #cabecario #tituCategoria{
+	margin: 0 0 0 3px;
+	float: left;
+	width: 120px;
+	width: 200px;
+}
+
+#base #registros #cabecario #tituArtigo{
+	margin: 0 0 0 3px;
+	float: left;
+	width: 665px;
+}
+
+
+#base #registros .lh{
+	font: 12px Verdana, Geneva, sans-serif;
+	height: 17px;
+	padding: 3px;
+}
+
+#base #registros .lh:hover{
+	background: #CCC;
+}
+
+#base #registros .lh + .lh{
+	border-top: 1px solid #CCC;
+	/*margin: 3px 0 0 0;*/
+}
+
+#base #registros .lh .nome{
+	text-align: center;
+	float: left;
+	width: 120px;
+}
+
+#base #registros .lh .categoria{
+	text-align: center;
+	margin: 0 0 0 3px;
+	float: left;
+	width: 200px;
+}
+
+#base #registros .lh .artigo{
+	text-align: center;
+	margin: 0 0 0 3px;
+	float: left;
+	width: 665px;
+}
+
