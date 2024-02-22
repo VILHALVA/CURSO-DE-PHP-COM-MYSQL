@@ -118,6 +118,6 @@ Em resumo, o MySQL e o PHP trabalham juntos para criar aplicativos da web dinâm
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [VEJA O CURSO DE MYSQL BASICO](https://github.com/VILHALVA/CURSO-DE-MYSQL)
 - [LINGUAGEM DE PROGRAMAÇÃO](https://github.com/VILHALVA/CURSO-DE-PHP)
-- [VEJA O MANUAL MYSQL](./MANUAL.md)
+- [VEJA O MANUAL](./MANUAL.md)
 - [VEJA O MANUAL DO XAMPP](./XAMPP.md)
 - [VEJA A SINTAXE](./SINTAXE.md)
